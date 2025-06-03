@@ -142,9 +142,9 @@ Core calculator functionality is in `js/calculator.js`. Key functions:
 ## 📧 Contact
 
 
-Project Link: [https://github.com/yourusername/calculator-app](https://github.com/yourusername/calculator-app)
+Project Link: [https://github.com/Triccy188/Calculator-app](https://github.com/Triccy188/Calculator-app)
 
-Live Demo: [https://yourusername.github.io/calculator-app](https://yourusername.github.io/calculator-app)
+Live Demo: [https://triccy188.github.io/Calculator-app/](https://triccy188.github.io/Calculator-app/)
 
 
 
